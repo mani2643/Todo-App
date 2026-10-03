@@ -4,7 +4,7 @@ A simple and interactive To-Do application built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_VERCEL_URL](https://todo-app-weld-xi-60.vercel.app/)
+[View Live Demo](https://todo-app-weld-xi-60.vercel.app/)
 
 ## 📌 About the Project
 
